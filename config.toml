@@ -20,7 +20,7 @@ theme = "LoveIt"
 [[deployment.targets]]
 #An arbitrary name for this target.
 name = "awsbucket"
-URL = "s3://yahya-s3-bucket.com/?region=us-east-1" #your bucket here
+URL = "s3://yahya-s3-bucket/?region=us-east-1" #your bucket here
 
 [params]
   # LoveIt theme version
